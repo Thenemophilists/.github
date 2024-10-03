@@ -1,5 +1,3 @@
-## Nemophilists Studio
-
 ### 🛠 &nbsp;技术栈 Tech Stack
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
