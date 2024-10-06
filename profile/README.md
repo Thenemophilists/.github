@@ -7,5 +7,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
 ### 🤝🏻 &nbsp;联系我们 Connect Us
-<a href="https://Nemophilists.com/"><img src="https://img.shields.io/badge/-Nemophilists.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:studio@nemophilists.com"><img src="https://img.shields.io/badge/-Studio@nemophilists.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://Nemophilists.com/"><img src="https://img.shields.io/badge/-Nemophilists.com-445d28?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:studio@nemophilists.com"><img src="https://img.shields.io/badge/-Studio@nemophilists.com-445d28?style=flat-square&logo=Gmail&logoColor=white"/></a>
