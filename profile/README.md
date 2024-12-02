@@ -2,9 +2,8 @@
 
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![NodeJs](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)&nbsp;
 
 ### 🤝🏻 &nbsp;联系我们 Connect Us
 <a href="https://Nemophilists.com/"><img src="https://img.shields.io/badge/-Nemophilists.com-445d28?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
